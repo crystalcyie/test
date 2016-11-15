@@ -1,0 +1,13 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Owned By,Comment,Task,Task Status,Task,Task Status,Task,Task Status
+3145955,Place order,order,,,,epic,,,"Nov 14, 2016",,,,way to order,https://www.pivotaltracker.com/epic/show/3145955,,,,,,,,
+3145945,Have a menu,menu,,,,epic,,,"Nov 14, 2016",,,,menu to be selected on the website,https://www.pivotaltracker.com/epic/show/3145945,,,,,,,,
+3145911,Make payment,way to make payment,,,,epic,,,"Nov 14, 2016",,,,all kind of work for making payment,https://www.pivotaltracker.com/epic/show/3145911,,,,,,,,
+133909135,Add patient record,patient,1,"Nov 7, 2016","Nov 20, 2016",feature,2,accepted,"Nov 7, 2016","Nov 7, 2016",,Crystal CYie,Add patient record by using IC number,https://www.pivotaltracker.com/story/show/133909135,Crystal CYie,,Create UI,not completed,Create button and text field,not completed,Create label to display error message,not completed
+133909249,Remove patient record,"",1,"Nov 7, 2016","Nov 20, 2016",feature,3,accepted,"Nov 7, 2016","Nov 7, 2016",,Crystal CYie,Remove IC number,https://www.pivotaltracker.com/story/show/133909249,Crystal CYie
+133909255,Make payment,"",1,"Nov 7, 2016","Nov 20, 2016",feature,3,accepted,"Nov 7, 2016","Nov 7, 2016",,Crystal CYie,,https://www.pivotaltracker.com/story/show/133909255,Crystal CYie
+133909269,Update payment,"",1,"Nov 7, 2016","Nov 20, 2016",feature,3,rejected,"Nov 7, 2016",,,Crystal CYie,,https://www.pivotaltracker.com/story/show/133909269,Crystal CYie,"aaa (Crystal CYie - Nov 7, 2016)"
+134334179,Pay by online fund transfer,"fund transfer payment, way to make payment",,,,feature,,unscheduled,"Nov 14, 2016",,,Crystal CYie,Make fund transfer to pay for the order,https://www.pivotaltracker.com/story/show/134334179,
+134334075,Card payment,"card payment, way to make payment",,,,feature,3,unscheduled,"Nov 14, 2016",,,Crystal CYie,Select card payment methods: Debit/Credit Card to pay for order,https://www.pivotaltracker.com/story/show/134334075,
+134333991,Create dropdownlist menu of food categories,"menu, way to arrange menu",,,,feature,3,unscheduled,"Nov 14, 2016",,,Crystal CYie,Display food menu based on category selected by user,https://www.pivotaltracker.com/story/show/134333991,
+134333917,Order online,"online order, order, way to make order",,,,feature,3,unscheduled,"Nov 14, 2016",,,Crystal CYie,Place order by selecting the food on the website,https://www.pivotaltracker.com/story/show/134333917,
+134333681,Payment by cash,"cash, way to make payment",,,,feature,3,unscheduled,"Nov 14, 2016",,,Crystal CYie,,https://www.pivotaltracker.com/story/show/134333681,
